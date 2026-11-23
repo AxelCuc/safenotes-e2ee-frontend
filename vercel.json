@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://safenotes-e2ee-backend.onrender.com/api/:path*"
+    }
+  ]
+}
